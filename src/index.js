@@ -4,7 +4,7 @@
 // const app = express();
 
 // // (async () => {})();
-// // syntax of async IIFE
+// // syntax of async IIFE )(immediately invoked function expression)
 // (async () => {
 //     try{
 //         await mongoose.connect(`${process.env.MONGODBM_URI}/${DB_NAME}`);
